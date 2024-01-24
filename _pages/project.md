@@ -24,7 +24,7 @@ grade, and will have three deliverables:
 2. **Presentation** : Poster presentation (3%)
 3. **Final Report** : 8 pages excluding references (15%)
 
-All write-ups should use the [CVPR style](https://cvpr2022.thecvf.com/sites/default/files/2021-10/cvpr2022-author_kit-v1_1-1.zip).
+All write-ups should use the [CVPR style](https://github.com/cvpr-org/author-kit/archive/refs/tags/CVPR2024-v2.zip).
 
 
 ***
