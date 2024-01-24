@@ -1,20 +1,20 @@
 Instructors:
-    - name: Subhransu Maji
-      email: smaji@cs.umass.edu
-      url: https://www.cs.umass.edu/~smaji
+    - name: Grant Van Horn
+      email: gvanhorn@umass.edu
+      url: https://gvh.codes/
       office-hours: Wednesday 5:15-6:15PM, 274 CS Building
-      image: staff/subhransu.jpg
+      image: staff/grant.jpg
 
 TA:
-    - name: Zezhou Cheng
-      email: zezhoucheng@cs.umass.edu
-      url: https://sites.google.com/site/zezhoucheng/
+    - name: Max Hamilton
+      email: jmhamilton@umass.edu
+      url: https://scholar.google.com/citations?user=tYerDBYAAAAJ
       office-hours: Monday 5:15-6:15PM (Zoom);Friday 4:00-5:00PM (207 CS Building)
-      image: staff/zezhou.png
+      image: staff/max.jpeg
 
-    - name: Ashish Singh
-      email: ashishsingh@cs.umass.edu
-      url: https://people.cs.umass.edu/~ashishsingh/
+    - name: Fabien Delattre
+      email: fdelattre@umass.edu
+      url: https://fabiendelattre.com/
       office-hours: Tuesday 3:00-4:00PM (Zoom);Thursday 3:00-4:00PM (207 CS Building)
-      image: staff/ashish.png
+      image: staff/fabien.png
 

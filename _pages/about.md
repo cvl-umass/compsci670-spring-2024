@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>C</b>omputer <b>V</b>ision
-description: COMPSCI 670 • Fall 2022 • University of Massachusetts, Amherst
+description: COMPSCI 670 • Spring 2024 • University of Massachusetts, Amherst
 logo: umass-logo.png
 news: true
 ---
@@ -33,14 +33,12 @@ course [logistics](logistics/) page for details.
 
 ***
 
-- **Time:** Monday/Wednesday 4:00PM -- 5:15PM
-- **Location:** Hasbrouck Lab, Add Room 126 ([map](https://www.google.com/maps/place/Hasbrouck+Laboratory/@42.3917693,-72.5281065,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x89e6d2774930ccf3:0x66bc68f63506e9fa!2sHasbrouck+Laboratory!8m2!3d42.3917693!4d-72.5259125!3m4!1s0x89e6d2774930ccf3:0x66bc68f63506e9fa!8m2!3d42.3917693!4d-72.5259125))
-- **Discussion:** [Piazza](https://piazza.com/umass/fall2022/compsci670/home)
-- **Homework release:** [Moodle](https://umass.moonami.com/course/view.php?id=32814), **submission:** [Gradescope]()
-- **Lecture slides:** [OneDrive](https://umass-my.sharepoint.com/:f:/g/personal/smaji_umass_edu/ErM3oUVOXS1JnmrMOyLnsnsBPKfpjml7g-xkSD8fhKOf8g?e=vLXnyH), **recordings:** [Echo360](https://umass.moonami.com/mod/lti/view.php?id=1818019)
+- **Time:** Tuesday/Thursday 4:00PM -- 5:15PM
+- **Location:** LGRT, Room 123 ([map](https://maps.app.goo.gl/Q9PxRrGyV5yfQZ578))
+- **Discussion:** [Piazza]()
+- **Homework release:** [Moodle](), **submission:** [Gradescope]()
+- **Lecture slides:** [OneDrive](), **recordings:** [Echo360]()
 - **Contact:** Students should ask all course-related questions on
-  [Piazza](), where you will also find announcements. For external
-  enquiries, personal matters, or in emergencies, you can email me at
-  *smaji@cs.umass.edu*.
+  [Piazza](), where you will also find announcements.
 
 ***
