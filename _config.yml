@@ -41,6 +41,7 @@ enable_katex:       true
 # -----------------------------------------------------------------------------
 collections:
   announcements:
+    future: false
     defaults:
       layout: post
     output: true

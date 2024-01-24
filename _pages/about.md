@@ -37,7 +37,7 @@ course [logistics](logistics/) page for details.
 - **Location:** LGRT, Room 123 ([map](https://maps.app.goo.gl/Q9PxRrGyV5yfQZ578))
 - **Discussion:** [Piazza]()
 - **Homework release:** [Moodle](), **submission:** [Gradescope]()
-- **Lecture slides:** [OneDrive](), **recordings:** [Echo360]()
+- **Lecture slides:** [OneDrive]()
 - **Contact:** Students should ask all course-related questions on
   [Piazza](), where you will also find announcements.
 
