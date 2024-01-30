@@ -34,7 +34,7 @@ course [logistics](logistics/) page for details.
 ***
 
 - **Time:** Tuesday/Thursday 4:00PM -- 5:15PM
-- **Location:** LGRT, Room 123 ([map](https://maps.app.goo.gl/Q9PxRrGyV5yfQZ578))
+- **Location:** Morrill III  203 ([map](https://maps.app.goo.gl/HXLNQUFnBkSL7fQQ9))
 - **Discussion:** [Piazza]()
 - **Homework release:** [Moodle](), **submission:** [Gradescope]()
 - **Lecture slides:** [OneDrive]()
