@@ -4,7 +4,7 @@ permalink: /homework/
 title: Homework Assignments
 ---
 
-- Homework 1: [Moodle link]()
-- Homework 2: [Moodle link]()
-- Homework 3: [Moodle link]()
-- Homework 4: [Moodle link]()
+- Homework 1: [Piazza link]()
+- Homework 2: [Piazza link]()
+- Homework 3: [Piazza link]()
+- Homework 4: [Piazza link]()

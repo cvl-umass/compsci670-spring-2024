@@ -35,10 +35,10 @@ course [logistics](logistics/) page for details.
 
 - **Time:** Tuesday/Thursday 4:00PM -- 5:15PM
 - **Location:** Morrill III  203 ([map](https://maps.app.goo.gl/HXLNQUFnBkSL7fQQ9))
-- **Discussion:** [Piazza]()
-- **Homework release:** [Moodle](), **submission:** [Gradescope]()
-- **Lecture slides:** [OneDrive]()
+- **Discussion:** [Piazza](https://piazza.com/umass/spring2024/compsci670/home)
+- **Homework release:** [Piazza](https://piazza.com/umass/spring2024/compsci670/home), **submission:** [Gradescope](https://www.gradescope.com/courses/721450)
+- **Lecture slides:** [Piazza](https://piazza.com/umass/spring2024/compsci670/home)
 - **Contact:** Students should ask all course-related questions on
-  [Piazza](), where you will also find announcements.
+  [Piazza](https://piazza.com/umass/spring2024/compsci670/home), where you will also find announcements.
 
 ***

@@ -3,7 +3,7 @@
   title: >
     <strong>Introduction and logistics</strong>
   logistics:
-    <span class="deadline">Setup Piazza, Moodle, Gradescope</span>
+    <span class="deadline">Setup Piazza, Gradescope</span>
   readings:
    - Szeliski book, Chapter 1
    - <a href="https://www.cs.princeton.edu/courses/archive/spring08/cos598B/Readings/ThorpeFizeMarlot1996.pdf">The speed of processing in the human visual system</a>, Thorpe et al., 1996
