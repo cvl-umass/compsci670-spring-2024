@@ -10,7 +10,7 @@ title: Logistics
 ***
 
 ### Textbooks
-The primary material for the class are lectures and readings from books, research papers,
+The primary material for the class are lectures and readings from books, research papers, and
 articles listed on the lectures page. There is no required textbook for this class. Nevertheless the
 following textbooks are useful:
 

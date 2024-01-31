@@ -28,7 +28,7 @@ will also be a final project which will investigate a single topic or
 application in greater depth. This course assumes a strong working
 knowledge of probability, linear algebra, and ability to program in
 Python. Prior experience in machine learning, signal or image
-processing is recommended, but not requireed. Take a look at the
+processing is recommended, but not required. Take a look at the
 course [logistics](logistics/) page for details.
 
 ***

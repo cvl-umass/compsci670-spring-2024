@@ -6,7 +6,7 @@ description: Guidelines and suggestions for course projects
 ---
 
 Your class project is an opportunity for you to explore an interesting
-problem in the context of a real-world data sets in area of computer vision defined 
+problem in the context of real-world data sets in area of computer vision defined 
 broadly. This means that topics such as machine learning over visual
 data, ways to interact with visual data,
 computational photography, computer graphics, language-vision
@@ -17,7 +17,7 @@ Each project will be assigned a TA as a project mentor;
 instructors and TAs will consult with you on your ideas, but of course
 the final responsibility to define and execute an interesting piece of
 work is yours. Your project will be worth 20% of your final class
-grade, and will have three deliverables:
+grade, and will have three required deliverables:
 
 
 1. **Proposal Abstract** : 2 pages excluding references (2%)
