@@ -33,6 +33,8 @@
   title: <strong>Python tutorial</strong> (Friday)
   readings:
   - <a href="https://colab.research.google.com/drive/1lYkyZDypN5Cm2a77Su60n39Hq0z3F4VA?usp=sharing">Collab page</a>
+  logistics:
+    <span class="deadline">CS 150/151</span>
 
 - date: 2/13
   lecturer: Grant
