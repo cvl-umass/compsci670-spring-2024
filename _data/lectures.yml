@@ -15,7 +15,7 @@
   title: <strong>Radiometry</strong>
   readings:
    - <a href="http://persci.mit.edu/pub_pdfs/dror_sctv_01.pdf">Surface reflectance estimation and natural illumination statistics</a>, Dror et al., 2001.
-   - <a href="http://www.sci.utah.edu/~gerig/CS6320-S2012/Materials/Forsyth-Ponce-SfS.pdf">Chapter 3</a> of Forsyth and Ponce book
+   - Chapter 2.2 and 2.3 of Forsyth and Ponce, <a href="http://www.sci.utah.edu/~gerig/CS6320-S2012/Materials/Forsyth-Ponce-SfS.pdf">online here (Section 3.5 and 3.6)</a>
    - <a href="https://www.matthewtancik.com/nerf">NeRF</a>
   logistics:
    <span class="deadline">HW1 out (due 2/20)</span>
