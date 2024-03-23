@@ -125,21 +125,13 @@
   title: No class (Spring recess)
 
 - date: 3/26
-  lecturer: Grant, <i>remote</i>
-  title: <strong>Project feedback</strong>
-
-- date: 3/28
-  lecturer: Grant, <i>remote</i>
-  title: <strong>Project feedback</strong>
-
-- date: 4/2
   lecturer: Grant
   title: <strong>Linear models</strong>
   readings:
     - <a href="https://link.springer.com/article/10.1007/BF02478259">Perceptron paper</a>, McColloch & Pitts, 1943
     - <a href="https://en.wikipedia.org/wiki/Linear_classifier">Linear classifier</a>, Wikipedia
 
-- date: 4/4
+- date: 3/28
   lecturer: Grant
   title: <strong>Neural networks</strong>
   readings:
@@ -147,21 +139,16 @@
     - <a href="https://www.image-net.org/">ImageNet</a>
     - <a href="https://openai.com/blog/microscope/">OpenAI Microscope</a> (model visualizer)
     - <a href="https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html">Pytorch CNN tutorial</a>
-- date: 4/9
+
+- date: 4/2
   lecturer: Grant
   title: <strong>Neural networks</strong>
   logistics:
    <span class="deadline">HW4 out (due 5/2)</span>
 
-
 - title: "Module 5: Advanced Topics in Recognition"
 
-- date: 4/11
-  lecturer: TBA
-  title: <strong>TBA</strong>
-  logistics: Guest lecture
-
-- date: 4/16
+- date: 4/4
   lecturer: Grant
   title: <strong>Transfer learning</strong>
   readings:
@@ -170,6 +157,18 @@
     - <a href="https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Lin_Bilinear_CNN_Models_ICCV_2015_paper.html">Bilinear CNNs</a>, Lin et al., 2015
     - <a href="https://openaccess.thecvf.com/content_cvpr_2018/html/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.html">Taskonomy</a>, Zamir et al., 2018
     - <a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Achille_Task2Vec_Task_Embedding_for_Meta-Learning_ICCV_2019_paper.html">Task2Vec</a>, Achille et al., 2019
+
+- date: 4/9
+  lecturer: Grant, <i>remote</i>
+  title: <strong>Project feedback</strong>
+
+- date: 4/11
+  lecturer: Grant, <i>remote</i>
+  title: <strong>Project feedback</strong>  
+
+- date: 4/16
+  lecturer: Grant
+  title: <strong>Transfer learning</strong>
 
 - date: 4/18
   lecturer: Grant
